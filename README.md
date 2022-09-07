@@ -1,11 +1,5 @@
 # 基于SSM的租房管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**租房1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于SSM的租房管理系统拥有管理员和租客两种角色，功能如下：
@@ -79,11 +73,4 @@
 
 ![租客-添加报障信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182331169.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**租房1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
